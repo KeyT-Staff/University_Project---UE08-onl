@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\University_Project.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\University_Project.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\University_ProjectEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\University_Project">
+      <UniqueIdentifier>{FDE32678-AD0F-3EC8-95C2-EC61C8D56B62}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\University_Project\University_Project.Build.cs">
+      <Filter>Source\University_Project</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\University_Project\University_Project.cpp">
+      <Filter>Source\University_Project</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\University_Project\University_Project.h">
+      <Filter>Source\University_Project</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\University_Project\University_ProjectCameraManager.cpp">
+      <Filter>Source\University_Project</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\University_Project\University_ProjectCameraManager.h">
+      <Filter>Source\University_Project</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\University_Project\University_ProjectCharacter.cpp">
+      <Filter>Source\University_Project</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\University_Project\University_ProjectCharacter.h">
+      <Filter>Source\University_Project</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\University_Project\University_ProjectGameMode.cpp">
+      <Filter>Source\University_Project</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\University_Project\University_ProjectGameMode.h">
+      <Filter>Source\University_Project</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\University_Project\University_ProjectPlayerController.cpp">
+      <Filter>Source\University_Project</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\University_Project\University_ProjectPlayerController.h">
+      <Filter>Source\University_Project</Filter>
+    </ClInclude>
+    <Filter Include="Source\University_Project\Variant_Horror">
+      <UniqueIdentifier>{DDECB409-C0FD-382F-ACB0-E3866158AEAF}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\University_Project\Variant_Horror\HorrorCharacter.cpp">
+      <Filter>Source\University_Project\Variant_Horror</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\University_Project\Variant_Horror\HorrorCharacter.h">
+      <Filter>Source\University_Project\Variant_Horror</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\University_Project\Variant_Horror\HorrorGameMode.cpp">
+      <Filter>Source\University_Project\Variant_Horror</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\University_Project\Variant_Horror\HorrorGameMode.h">
+      <Filter>Source\University_Project\Variant_Horror</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\University_Project\Variant_Horror\HorrorPlayerController.cpp">
+      <Filter>Source\University_Project\Variant_Horror</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\University_Project\Variant_Horror\HorrorPlayerController.h">
+      <Filter>Source\University_Project\Variant_Horror</Filter>
+    </ClInclude>
+    <Filter Include="Source\University_Project\Variant_Horror\UI">
+      <UniqueIdentifier>{D28B0514-CA29-3E8D-A365-2B7F6524DFAE}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\University_Project\Variant_Horror\UI\HorrorUI.cpp">
+      <Filter>Source\University_Project\Variant_Horror\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\University_Project\Variant_Horror\UI\HorrorUI.h">
+      <Filter>Source\University_Project\Variant_Horror\UI</Filter>
+    </ClInclude>
+    <Filter Include="Source\University_Project\Variant_Shooter">
+      <UniqueIdentifier>{5F3EF5A0-D8F4-3DE9-A450-CC15D34942D8}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\University_Project\Variant_Shooter\ShooterCharacter.cpp">
+      <Filter>Source\University_Project\Variant_Shooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\University_Project\Variant_Shooter\ShooterCharacter.h">
+      <Filter>Source\University_Project\Variant_Shooter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\University_Project\Variant_Shooter\ShooterGameMode.cpp">
+      <Filter>Source\University_Project\Variant_Shooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\University_Project\Variant_Shooter\ShooterGameMode.h">
+      <Filter>Source\University_Project\Variant_Shooter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\University_Project\Variant_Shooter\ShooterPlayerController.cpp">
+      <Filter>Source\University_Project\Variant_Shooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\University_Project\Variant_Shooter\ShooterPlayerController.h">
+      <Filter>Source\University_Project\Variant_Shooter</Filter>
+    </ClInclude>
+    <Filter Include="Source\University_Project\Variant_Shooter\AI">
+      <UniqueIdentifier>{05F37CAD-8F04-3B63-AE4B-F85E0AC4F3EF}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\University_Project\Variant_Shooter\AI\EnvQueryContext_Target.cpp">
+      <Filter>Source\University_Project\Variant_Shooter\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\University_Project\Variant_Shooter\AI\EnvQueryContext_Target.h">
+      <Filter>Source\University_Project\Variant_Shooter\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\University_Project\Variant_Shooter\AI\ShooterAIController.cpp">
+      <Filter>Source\University_Project\Variant_Shooter\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\University_Project\Variant_Shooter\AI\ShooterAIController.h">
+      <Filter>Source\University_Project\Variant_Shooter\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\University_Project\Variant_Shooter\AI\ShooterNPC.cpp">
+      <Filter>Source\University_Project\Variant_Shooter\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\University_Project\Variant_Shooter\AI\ShooterNPC.h">
+      <Filter>Source\University_Project\Variant_Shooter\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\University_Project\Variant_Shooter\AI\ShooterStateTreeUtility.cpp">
+      <Filter>Source\University_Project\Variant_Shooter\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\University_Project\Variant_Shooter\AI\ShooterStateTreeUtility.h">
+      <Filter>Source\University_Project\Variant_Shooter\AI</Filter>
+    </ClInclude>
+    <Filter Include="Source\University_Project\Variant_Shooter\UI">
+      <UniqueIdentifier>{FAC86C97-B566-3FB8-BC05-545AA9FE5587}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\University_Project\Variant_Shooter\UI\ShooterBulletCounterUI.cpp">
+      <Filter>Source\University_Project\Variant_Shooter\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\University_Project\Variant_Shooter\UI\ShooterBulletCounterUI.h">
+      <Filter>Source\University_Project\Variant_Shooter\UI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\University_Project\Variant_Shooter\UI\ShooterUI.cpp">
+      <Filter>Source\University_Project\Variant_Shooter\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\University_Project\Variant_Shooter\UI\ShooterUI.h">
+      <Filter>Source\University_Project\Variant_Shooter\UI</Filter>
+    </ClInclude>
+    <Filter Include="Source\University_Project\Variant_Shooter\Weapons">
+      <UniqueIdentifier>{10DE31BD-6749-3AB7-9663-117F78E86C12}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\University_Project\Variant_Shooter\Weapons\ShooterPickup.cpp">
+      <Filter>Source\University_Project\Variant_Shooter\Weapons</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\University_Project\Variant_Shooter\Weapons\ShooterPickup.h">
+      <Filter>Source\University_Project\Variant_Shooter\Weapons</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\University_Project\Variant_Shooter\Weapons\ShooterProjectile.cpp">
+      <Filter>Source\University_Project\Variant_Shooter\Weapons</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\University_Project\Variant_Shooter\Weapons\ShooterProjectile.h">
+      <Filter>Source\University_Project\Variant_Shooter\Weapons</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\University_Project\Variant_Shooter\Weapons\ShooterWeapon.cpp">
+      <Filter>Source\University_Project\Variant_Shooter\Weapons</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\University_Project\Variant_Shooter\Weapons\ShooterWeapon.h">
+      <Filter>Source\University_Project\Variant_Shooter\Weapons</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\University_Project\Variant_Shooter\Weapons\ShooterWeaponHolder.cpp">
+      <Filter>Source\University_Project\Variant_Shooter\Weapons</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\University_Project\Variant_Shooter\Weapons\ShooterWeaponHolder.h">
+      <Filter>Source\University_Project\Variant_Shooter\Weapons</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
