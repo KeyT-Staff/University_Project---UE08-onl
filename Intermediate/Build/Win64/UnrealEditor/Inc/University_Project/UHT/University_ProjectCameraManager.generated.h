@@ -19,7 +19,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 // ********** Begin Class AUniversity_ProjectCameraManager *****************************************
 UNIVERSITY_PROJECT_API UClass* Z_Construct_UClass_AUniversity_ProjectCameraManager_NoRegister();
 
-#define FID_Users_KeyT_Error_Desktop_University_Project_Source_University_Project_University_ProjectCameraManager_h_16_INCLASS_NO_PURE_DECLS \
+#define FID_University_Project___UE08_onl_Source_University_Project_University_ProjectCameraManager_h_16_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAUniversity_ProjectCameraManager(); \
 	friend struct Z_Construct_UClass_AUniversity_ProjectCameraManager_Statics; \
@@ -30,7 +30,7 @@ public: \
 	DECLARE_SERIALIZER(AUniversity_ProjectCameraManager)
 
 
-#define FID_Users_KeyT_Error_Desktop_University_Project_Source_University_Project_University_ProjectCameraManager_h_16_ENHANCED_CONSTRUCTORS \
+#define FID_University_Project___UE08_onl_Source_University_Project_University_ProjectCameraManager_h_16_ENHANCED_CONSTRUCTORS \
 	/** Deleted move- and copy-constructors, should never be used */ \
 	AUniversity_ProjectCameraManager(AUniversity_ProjectCameraManager&&) = delete; \
 	AUniversity_ProjectCameraManager(const AUniversity_ProjectCameraManager&) = delete; \
@@ -40,12 +40,12 @@ public: \
 	NO_API virtual ~AUniversity_ProjectCameraManager();
 
 
-#define FID_Users_KeyT_Error_Desktop_University_Project_Source_University_Project_University_ProjectCameraManager_h_13_PROLOG
-#define FID_Users_KeyT_Error_Desktop_University_Project_Source_University_Project_University_ProjectCameraManager_h_16_GENERATED_BODY \
+#define FID_University_Project___UE08_onl_Source_University_Project_University_ProjectCameraManager_h_13_PROLOG
+#define FID_University_Project___UE08_onl_Source_University_Project_University_ProjectCameraManager_h_16_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Users_KeyT_Error_Desktop_University_Project_Source_University_Project_University_ProjectCameraManager_h_16_INCLASS_NO_PURE_DECLS \
-	FID_Users_KeyT_Error_Desktop_University_Project_Source_University_Project_University_ProjectCameraManager_h_16_ENHANCED_CONSTRUCTORS \
+	FID_University_Project___UE08_onl_Source_University_Project_University_ProjectCameraManager_h_16_INCLASS_NO_PURE_DECLS \
+	FID_University_Project___UE08_onl_Source_University_Project_University_ProjectCameraManager_h_16_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -55,6 +55,6 @@ class AUniversity_ProjectCameraManager;
 // ********** End Class AUniversity_ProjectCameraManager *******************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Users_KeyT_Error_Desktop_University_Project_Source_University_Project_University_ProjectCameraManager_h
+#define CURRENT_FILE_ID FID_University_Project___UE08_onl_Source_University_Project_University_ProjectCameraManager_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

@@ -512,14 +512,14 @@ AShooterWeapon::~AShooterWeapon() {}
 // ********** End Class AShooterWeapon *************************************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_Users_KeyT_Error_Desktop_University_Project_Source_University_Project_Variant_Shooter_Weapons_ShooterWeapon_h__Script_University_Project_Statics
+struct Z_CompiledInDeferFile_FID_University_Project___UE08_onl_Source_University_Project_Variant_Shooter_Weapons_ShooterWeapon_h__Script_University_Project_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_AShooterWeapon, AShooterWeapon::StaticClass, TEXT("AShooterWeapon"), &Z_Registration_Info_UClass_AShooterWeapon, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AShooterWeapon), 130245665U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_KeyT_Error_Desktop_University_Project_Source_University_Project_Variant_Shooter_Weapons_ShooterWeapon_h__Script_University_Project_3003188399(TEXT("/Script/University_Project"),
-	Z_CompiledInDeferFile_FID_Users_KeyT_Error_Desktop_University_Project_Source_University_Project_Variant_Shooter_Weapons_ShooterWeapon_h__Script_University_Project_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_KeyT_Error_Desktop_University_Project_Source_University_Project_Variant_Shooter_Weapons_ShooterWeapon_h__Script_University_Project_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_University_Project___UE08_onl_Source_University_Project_Variant_Shooter_Weapons_ShooterWeapon_h__Script_University_Project_3003188399(TEXT("/Script/University_Project"),
+	Z_CompiledInDeferFile_FID_University_Project___UE08_onl_Source_University_Project_Variant_Shooter_Weapons_ShooterWeapon_h__Script_University_Project_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_University_Project___UE08_onl_Source_University_Project_Variant_Shooter_Weapons_ShooterWeapon_h__Script_University_Project_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // ********** End Registration *********************************************************************

@@ -19,7 +19,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 // ********** Begin Class AUniversity_ProjectPlayerController **************************************
 UNIVERSITY_PROJECT_API UClass* Z_Construct_UClass_AUniversity_ProjectPlayerController_NoRegister();
 
-#define FID_Users_KeyT_Error_Desktop_University_Project_Source_University_Project_University_ProjectPlayerController_h_20_INCLASS_NO_PURE_DECLS \
+#define FID_University_Project___UE08_onl_Source_University_Project_University_ProjectPlayerController_h_20_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAUniversity_ProjectPlayerController(); \
 	friend struct Z_Construct_UClass_AUniversity_ProjectPlayerController_Statics; \
@@ -30,7 +30,7 @@ public: \
 	DECLARE_SERIALIZER(AUniversity_ProjectPlayerController)
 
 
-#define FID_Users_KeyT_Error_Desktop_University_Project_Source_University_Project_University_ProjectPlayerController_h_20_ENHANCED_CONSTRUCTORS \
+#define FID_University_Project___UE08_onl_Source_University_Project_University_ProjectPlayerController_h_20_ENHANCED_CONSTRUCTORS \
 	/** Deleted move- and copy-constructors, should never be used */ \
 	AUniversity_ProjectPlayerController(AUniversity_ProjectPlayerController&&) = delete; \
 	AUniversity_ProjectPlayerController(const AUniversity_ProjectPlayerController&) = delete; \
@@ -40,12 +40,12 @@ public: \
 	NO_API virtual ~AUniversity_ProjectPlayerController();
 
 
-#define FID_Users_KeyT_Error_Desktop_University_Project_Source_University_Project_University_ProjectPlayerController_h_17_PROLOG
-#define FID_Users_KeyT_Error_Desktop_University_Project_Source_University_Project_University_ProjectPlayerController_h_20_GENERATED_BODY \
+#define FID_University_Project___UE08_onl_Source_University_Project_University_ProjectPlayerController_h_17_PROLOG
+#define FID_University_Project___UE08_onl_Source_University_Project_University_ProjectPlayerController_h_20_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Users_KeyT_Error_Desktop_University_Project_Source_University_Project_University_ProjectPlayerController_h_20_INCLASS_NO_PURE_DECLS \
-	FID_Users_KeyT_Error_Desktop_University_Project_Source_University_Project_University_ProjectPlayerController_h_20_ENHANCED_CONSTRUCTORS \
+	FID_University_Project___UE08_onl_Source_University_Project_University_ProjectPlayerController_h_20_INCLASS_NO_PURE_DECLS \
+	FID_University_Project___UE08_onl_Source_University_Project_University_ProjectPlayerController_h_20_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -55,6 +55,6 @@ class AUniversity_ProjectPlayerController;
 // ********** End Class AUniversity_ProjectPlayerController ****************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Users_KeyT_Error_Desktop_University_Project_Source_University_Project_University_ProjectPlayerController_h
+#define CURRENT_FILE_ID FID_University_Project___UE08_onl_Source_University_Project_University_ProjectPlayerController_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
